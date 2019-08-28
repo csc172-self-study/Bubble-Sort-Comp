@@ -51,8 +51,3 @@ int main() {
 	cout << "Original method took " << orig_sort_time << " s.\n";
 	cout << "New short-circuit method took " << new_sort_time << " s.\n";
 }
-
-
-
-
-
